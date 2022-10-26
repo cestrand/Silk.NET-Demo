@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Silk.NET Demo": {
+      "commandName": "Project",
+      "workingDirectory": "."
+    }
+  }
+}
